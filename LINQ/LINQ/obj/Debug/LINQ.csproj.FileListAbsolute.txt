@@ -1,0 +1,14 @@
+C:\Users\leyvalc\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\leyvalc\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\leyvalc\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\leyvalc\source\repos\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\leyvalc\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\leyvalc\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\leyvalc\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\rangeltg\Desktop\Actividades\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\rangeltg\Desktop\Actividades\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\rangeltg\Desktop\Actividades\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\rangeltg\Desktop\Actividades\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\rangeltg\Desktop\Actividades\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\rangeltg\Desktop\Actividades\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\rangeltg\Desktop\Actividades\LINQ\LINQ\obj\Debug\LINQ.pdb
